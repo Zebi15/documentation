@@ -1,9 +1,9 @@
 {
-  "name": "YOUR_BRAND_NAME",
-  "primaryColor": "#3B82F6",
-  "websiteUrl": "https://your-website.com",
-  "dashboardUrl": "https://app.your-website.com",
-  "supportUrl": "https://your-website.com/contact",
+  "name": "BotRep.ai",
+  "primaryColor": "#6600ea",
+  "websiteUrl": "https://botrep.ai",
+  "dashboardUrl": "https://app.botrep.ai",
+  "supportUrl": "https://botrep.ai/help-center",
   "linkedinUrl": "",
   "ogImageUrl": ""
 }
